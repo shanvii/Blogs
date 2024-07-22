@@ -4,7 +4,6 @@ datePublished: Fri Jun 14 2024 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clyjowr74000p0al022fp9qdh
 slug: revisiting-java-fundamentals-a-journey-through-core-concepts
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1720849868529/bf4cf314-5ac6-4690-9d6d-1a3bf29c4dc1.png
-tags: java, hashnode, coursera, java-programming, java-beginner, java-full-stack-development, java-fundamentals
 
 ---
 
