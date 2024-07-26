@@ -33,6 +33,7 @@ Below is a list of my blog posts.
 4. [Understanding CSS Units: From Pixels to Em](https://satakshi.hashnode.dev/understanding-css-units-from-pixels-to-em)
 5. [Why Programming Languages? A Simple Explanation](https://satakshi.hashnode.dev/why-programming-languages-a-simple-explanation)
 6. [Revisiting HTML and CSS: The Backbone of Web Development](https://satakshi.hashnode.dev/revisiting-html-and-css-the-backbone-of-web-development)
+7. [Understanding JavaScript String Methods: A Practical Guide](https://satakshi.hashnode.dev/understanding-javascript-string-methods-a-practical-guide)
 
 
 <!-- ## How to Use This Repository
