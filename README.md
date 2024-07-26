@@ -31,6 +31,9 @@ Below is a list of my blog posts.
 2. [My Journey with Git and GitHub: Mastering Version Control](https://satakshi.hashnode.dev/my-journey-with-git-and-github-mastering-version-control)
 3. [Box Sizing and Box Model in CSS](https://satakshi.hashnode.dev/box-sizing-and-box-model-in-css)
 4. [Understanding CSS Units: From Pixels to Em](https://satakshi.hashnode.dev/understanding-css-units-from-pixels-to-em)
+5. [Why Programming Languages? A Simple Explanation](https://satakshi.hashnode.dev/why-programming-languages-a-simple-explanation)
+6. [Revisiting HTML and CSS: The Backbone of Web Development](https://satakshi.hashnode.dev/revisiting-html-and-css-the-backbone-of-web-development)
+
 
 <!-- ## How to Use This Repository
 
