@@ -12,7 +12,7 @@ Welcome to my blog repository! Here, I document my learning path as I explore an
 
 ## Introduction
 
-I'm currently a Master's student in Computer Science with a focus on becoming a full-stack Java developer. This repository serves as a personal journal where I share my learning experiences, projects, and tips.
+I'm currently a Master's student in Computer Science with a focus on becoming a full-stack developer. This repository serves as a personal journal where I share my learning experiences, projects, and tips.
 
 ## Why This Repository
 
