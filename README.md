@@ -34,6 +34,8 @@ Below is a list of my blog posts.
 5. [Why Programming Languages? A Simple Explanation](https://satakshi.hashnode.dev/why-programming-languages-a-simple-explanation)
 6. [Revisiting HTML and CSS: The Backbone of Web Development](https://satakshi.hashnode.dev/revisiting-html-and-css-the-backbone-of-web-development)
 7. [Understanding JavaScript String Methods: A Practical Guide](https://satakshi.hashnode.dev/understanding-javascript-string-methods-a-practical-guide)
+8. [Unlocking the Power of Windows Subsystem for Linux (WSL): A Beginner’s Guide](https://satakshi.hashnode.dev/unlocking-the-power-of-windows-subsystem-for-linux-wsl-a-beginners-guide)
+9. [My Journey with Basic Bash Commands in WSL Ubuntu](https://satakshi.hashnode.dev/my-journey-with-basic-bash-commands-in-wsl-ubuntu)
 
 
 <!-- ## How to Use This Repository
